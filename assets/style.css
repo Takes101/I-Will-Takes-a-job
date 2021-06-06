@@ -50,14 +50,27 @@ body {
 }
 body h2 {
     color: var(--primary-color);
+    margin: 50px auto;
+    border-bottom: 1px solid var(--primary-color);
+    text-align: center;
 }
 .intro p {
-    float: right;
-}
-.personal-info p {
+    display: flex;
     color: var(--primary-color);
+    padding: 25px;
 }
 .personal-info p a {
     text-decoration: none;
     color: #ffd700;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50%;
+    text-align: center;
+}
+.my-resume a {
+    text-decoration: none;
+    color: var(--primary-color);
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50%;
 }
