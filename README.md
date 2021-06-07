@@ -15,6 +15,6 @@ https://takes101.github.io/I-Will-Takes-a-job/
 
 # Screenshot
 
-![Screenshot](Screenshot1)
+<img src="./I-Will-Takes-a-job/Screenshot1" />
 
 
