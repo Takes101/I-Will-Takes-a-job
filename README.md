@@ -15,6 +15,6 @@ https://takes101.github.io/I-Will-Takes-a-job/
 
 # Screenshot
 
-<img src="Screen Shot 2021-06-07 at 12.12.40 AM" />
+<img src="./Screenshot1" />
 
 
