@@ -15,6 +15,7 @@ https://takes101.github.io/I-Will-Takes-a-job/
 
 # Screenshot
 
-<img src="./I-Will-Takes-a-job/Screenshot1" />
+<img width="1440" alt="Screenshot1" src="https://user-images.githubusercontent.com/81714612/120958695-dbc48300-c71d-11eb-86ce-2767517230cb.png">
+
 
 
